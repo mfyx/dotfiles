@@ -1,0 +1,285 @@
+(base) mfyx@lzy ~ % /Applications/Amethyst.app/Contents/MacOS/Amethyst --debug-info
+Version: 0.20.0 (108)
+
+OS version: Version 14.2.1 (Build 23C71)
+
+Screens:
+	(0.0, 0.0, 2056.0, 1329.0) [(0.0, 0.0, 2056.0, 1329.0)]
+
+Configuration:
+layouts: (
+    "two-pane",
+    tall,
+    fullscreen,
+    bsp
+)
+mod1: (
+    option,
+    shift
+)
+window-resize-step: 5
+enables-layout-hud: 1
+ignore-menu-bar: 0
+window-max-count: 0
+screen-padding-left: 0
+screen-padding-top: 0
+mod2: (
+    option,
+    shift,
+    control
+)
+new-windows-to-main: 0
+focus-follows-mouse: 0
+window-margin-size: 1
+floating: (
+        {
+        id = "com.west2online.ClashXPro";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "world.letsgo.booster.mac.home";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.raycast.macos";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.AppStore";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.systempreferences";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "org.pqrs.Karabiner-Elements.Settings";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "org.pqrs.Karabiner-EventViewer";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.finder";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.tencent.meeting";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.tencent.qq";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.tencent.xinWeChat";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.linguee.DeepLCopyTranslator";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.google.android.studio-EAP";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "ai.animato.callsam";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.reminders";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.openai.chat";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.ActivityMonitor";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.SFSymbols";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "maccatalyst.com.atebits.Tweetie2";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "Isuru.BearsGratitude";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "cn.futu.Niuniu";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.bresink.system.tinkertool";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.tiimo.app";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.bresink.system.tinkertool";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "Isuru.BearsGratitude";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.trendmicro.TrendCleaner";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.macpaw.CleanMyMac-mas";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.copilot.production";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "cn.futu.Niuniu";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.electron.ollama";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "global.longbridge.app.desktop";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.electron.ollama";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.trendmicro.TrendCleaner";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.macpaw.CleanMyMac-mas";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.bresink.system.tinkertool";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "cn.futu.Niuniu";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.copilot.production";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.tiimo.app";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "Isuru.BearsGratitude";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.xuetangx.rainclassroom";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.apple.FinalCutTrial";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.github.GitHubClient";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "org.hammerspoon.Hammerspoon";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.trendmicro.TrendCleaner";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.memoryvault.MemoryVault";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "org.zotero.zotero";
+        "window-titles" =         (
+        );
+    },
+        {
+        id = "com.hnc.Discord";
+        "window-titles" =         (
+        );
+    }
+)
+mouse-resizes-windows: 1
+floating-is-blacklist: 1
+mouse-follows-focus: 1
+use-canary-build: 0
+window-margins: 1
+debug-layout-info: 0
+enables-layout-hud-on-space-change: 0
+window-minimum-height: 0
+mouse-swaps-windows: 1
+window-minimum-width: 0
+screen-padding-right: 0
+screen-padding-bottom: 0
+follow-space-thrown-windows: 0
+restore-layouts-on-launch: 1
+float-small-windows: 1
