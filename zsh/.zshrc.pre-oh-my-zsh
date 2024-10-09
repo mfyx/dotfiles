@@ -1,0 +1,39 @@
+export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/Users/mfyx/.local/bin:$PATH"
+export JAVA_HOME=$(/usr/libexec/java_home)
+
+export PATH=/Users/mfyx/Library/flutter/bin:$PATH
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_STORAGE_BASE_UUL=https://storage.flutter-io.cn
+
+export PATH="/Applications/Zed.app/Contents/MacOS:$PATH"
+export PATH="/usr/bin:$PATH"
+
+#plugins=(git zsh-autosuggestions)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/mfyx/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/mfyx/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/Users/mfyx/anaconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/Users/mfyx/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+alias jo='joshuto'
+alias la='lazygit'
+
+#bindkey -v
+#bindkey -M vicmd "i" vi-insert
+
+source $(brew --prefix)/opt/zsh-vi-mode/share/zsh-vi-mode/zsh-vi-mode.plugin.zsh
+
+
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
