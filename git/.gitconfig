@@ -12,3 +12,5 @@
 [core]
 	excludesfile = /Users/mfyx/.gitignore_global
 	quotepath = false
+[credential]
+	helper = cache
