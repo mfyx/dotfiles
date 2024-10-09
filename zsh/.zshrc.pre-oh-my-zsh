@@ -28,7 +28,7 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 alias jo='joshuto'
-alias la='lazygit'
+alias lg='lazygit'
 
 #bindkey -v
 #bindkey -M vicmd "i" vi-insert
