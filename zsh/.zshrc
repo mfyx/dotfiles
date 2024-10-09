@@ -44,7 +44,7 @@ unset __conda_setup
 
 alias jo='joshuto'
 alias ra='ranger'
-alias la='lazygit'
+alias lg='lazygit'
 alias ze='zellij'
 alias em="emacsclient -c -a 'emasc'"
 
