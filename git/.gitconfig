@@ -1,0 +1,14 @@
+[user]
+	email = 1571547820@qq.com
+	name = mfyx
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[http]
+	sslVerify = true
+	postBuffer = 524288000
+[core]
+	excludesfile = /Users/mfyx/.gitignore_global
+	quotepath = false
